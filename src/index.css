@@ -1,17 +1,17 @@
 :root {
-  --green-50: hsl(141deg 75% 90%);
-  --green-100: hsl(141deg 75% 85%);
-  --green-200: hsl(141deg 75% 70%);
-  --green-300: hsl(141deg 75% 60%);
-  --green-400: hsl(141deg 75% 50%);
-  --green-500: hsl(141deg 75% 45%);
-  --green-600: hsl(141deg 75% 35%);
-  --green-700: hsl(141deg 75% 25%);
-  --green-800: hsl(141deg 75% 15%);
-  --green-900: hsl(141deg 75% 10%);
-  --green-950: hsl(141deg 75% 5%);
-  --green-1000: hsl(141deg 75% 2.5%);
-  --green-1000-25: hsl(141deg 75% 2.5% / 25%);
+ --green-50: hsl(261, 61%, 90%);
+  --green-100: hsl(261, 77%, 85%);
+  --green-200: hsl(261, 72%, 80%);
+  --green-300: hsl(262, 80%, 77%);
+  --green-400: hsl(103, 84%, 31%);
+  --green-500: hsl(262, 75%, 40%);
+  --green-600: hsl(262, 70%, 30%);
+  --green-700: hsl(262, 87%, 20%);
+  --green-800: hsl(262, 85%, 13%);
+  --green-900: hsl(262, 71%, 10%);
+  --green-950: hsl(262, 73%, 6%);
+  --green-1000: hsl(263, 80%, 2.1%);
+  --green-1000-25: hsl(deg 75% 2.5% / 25%);
 
   --transition-duration: 200ms;
   --transition-function: ease;
