@@ -4,7 +4,7 @@
 A sleek and responsive Spotify-inspired music app interface built with **React** and **JavaScript**, mimicking key elements of the Spotify Web Player. Streamlined with modern UI/UX design and integration with Spotify Web API.
 
 ### 🔗 Live Demo
-( https://brunojscript.github.io/SpotifyPageProject/ )
+(  https://brunojscript.github.io/SpotifyPageProject/  )
 
 ## 🚀 Features
 
